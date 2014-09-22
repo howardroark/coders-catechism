@@ -1,4 +1,3 @@
-coders-catechism
-================
+# The Coder's Catechism
 
-An open adaptation of Heilmeier's Catechism for building successful open-source projects.
+The Coder's Catechism is inspired by [Heilmeier's Catechism](http://en.wikipedia.org/wiki/George_H._Heilmeier#Heilmeier.27s_Catechism). Heilmeier's Catechism is a series of questions to be answered when proposing a project.  The questions are designed to answer the questions of possible investors or organizational leadership.  The Coder's Catechism is a distilled version of this concept which is designed to answer the questions of another developer.  This catechim assumes that the project is a contribution to the open-source world and aims to properly follow the [Unix philosophy](http://en.wikipedia.org/wiki/Unix_philosophy).
