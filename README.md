@@ -7,7 +7,7 @@ The Coder's Catechism is a distilled version of this concept. It is meant to ans
 The core of the concept assumes that new projects have to build upon previous ideas in order to be understood.  It also assumes that there has to be an immediate demand for the implementation.  Finally, there should be a solid vision of the the future of the project.  In effect it is three questions that answer the past, present and future.
 
 
-### What existing ideas or implementations does this build upon?
+### What existing ideas or patterns does this build upon?
 
 ### What problems will this project immediately solve?
 
