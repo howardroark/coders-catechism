@@ -24,6 +24,6 @@ the past, present and future it should make sense.
 
 ### What pre-existing ideas does this project build upon?
 
-### What immediate benefits will this project offer today?
+### What immediate benefits can this project offer today?
 
 ### What impacts could this project have down the road?
