@@ -20,7 +20,7 @@ there should be a solid vision of the future of the project. In effect if you
 can explain what the project is and offer context to its role when related to
 the past, present and future it should make sense.
 
-### What exaclty is this project attempting to accompish?
+### What exactly is this project attempting to accompish?
 
 ### What pre-existing ideas does this project build upon?
 
